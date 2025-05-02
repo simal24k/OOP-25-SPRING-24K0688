@@ -90,3 +90,4 @@ int main() {
 
     return 0;
 }
+//self note:Tests struct usage and basic file operations (write, append, read).
