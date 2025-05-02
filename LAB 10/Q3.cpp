@@ -23,3 +23,4 @@ int main() {
     showBook.close();
     return 0;
 }
+//self note:Tests reading from multiple files and appending contents to a single file.
