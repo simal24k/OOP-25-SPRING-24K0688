@@ -31,3 +31,4 @@ int main() {
     readFile.close();
     return 0;
 }
+//self note: Tests file pointer manipulation with seekg, seekp, tellg, tellp.
