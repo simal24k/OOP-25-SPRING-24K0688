@@ -27,3 +27,4 @@ int main() {
     inFile.close();
     return 0;
 }
+//self note:Tests file overwrite with ios::trunc and structured input/output.
